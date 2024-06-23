@@ -13,7 +13,7 @@ There is a tribute page to H. Ford, creator of the T-Model car. The page was cre
 
 ### Screenshot
 
-![](./images/screenshot.png)
+![](./images/Screenshot.png)
 
 ### Links
 
@@ -24,16 +24,16 @@ There is a tribute page to H. Ford, creator of the T-Model car. The page was cre
 Creating a page dedicated to a famous person (tribute page).
 
 My comments:
-- footer is "glued" to the bottom of the visible area and it is always visible to the user;
-- the photos (Inventions section) are doubled when the cursor is hovered over.
-- the footer contains two buttons that change color to green when the cursor is hovered over them. When clicking on them - the user goes to the top of the page;
-- the top menu (header) is created with <ol> and <li>, but the bottom menu (footer) is created with flexbox and <p>. This was my experiment and testing the performance of each variant.
+-footer is "glued" to the bottom of the visible area and it is always visible to the user;
+-the photos (Inventions section) are doubled when the cursor is hovered over.
+-the footer contains two buttons that change color to green when the cursor is hovered over them. When clicking on them - the user goes to the top of the page;
+-the top menu (header) is created with < ol > and < il >, but the bottom menu (footer) is created with flexbox and < p >. This was my experiment and testing the performance of each variant.
 
 ### Built with
 
-- Semantic HTML5 markup
-- vanilla CSS
-- Flexbox
+-Semantic HTML5 markup
+-vanilla CSS
+-Flexbox
 
 ### What I learned
 
